@@ -1,4 +1,4 @@
-## Hi there 👋
+## THIS PAGE IS GOING THROUGH SERIOUS RENOVATION
 
 <!--
 **EmmanuelAweJr/EmmanuelAweJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
