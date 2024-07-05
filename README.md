@@ -14,3 +14,49 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Emmanuel Awe's GitHub Profile
+
+![Header Image](https://yourimageurl.com)
+
+## Hi there! 👋
+
+I'm Emmanuel Awe, a passionate technologist with a diverse background in media, tech, and product roles. My journey in tech has been driven by a desire to empower underrepresented communities and foster diversity in the innovation economy. Let's connect and collaborate!
+
+### 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+
+### 💼 Work Experience
+- **Process Improvement & Systems Development** at OnsiteIQ
+- **Product Specialist** at BRINC Drones
+- **Project-Based Data Science Curriculum** with over 400+ hours of technical instruction
+
+### 🌟 Key Projects
+- **[Bank Fraud Detection](https://github.com/yourusername/bank-fraud-detection):** Developed a machine learning pipeline to detect fraudulent bank transactions.
+- **[Audio Recognition Algorithm](https://github.com/yourusername/audio-recognition-algorithm):** Created an algorithm to recognize and classify audio signals.
+- **[Exploratory Data Analysis in Real Estate](https://github.com/yourusername/real-estate-eda):** Insights into real estate trends using Python.
+
+### 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/emmanuelawe/)
+- [Twitter](https://twitter.com/yourusername)
+- [Email](mailto:emmanuel.awe@example.com)
+
+### 📈 GitHub Stats
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### 🏅 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+### 💡 Fun Facts
+- 🎬 I have a background in film school and a passion for storytelling.
+- 🚁 I enjoy managing UAV flight operations and exploring innovative uses of camera technology.
+
+![Footer Image](https://yourfooterimageurl.com)
