@@ -36,9 +36,8 @@ I'm Emmanuel Awe, a passionate technologist with a diverse background in media, 
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 
 ### 💼 Work Experience
-- **Process Improvement & Systems Development** at OnsiteIQ
-- **Product Specialist** at BRINC Drones
-- **Project-Based Data Science Curriculum** with over 400+ hours of technical instruction
+- **OnsiteIQ-Process Improvement & Systems Development** at OnsiteIQ
+- **PThe Knowledge House** Project-Based Data Science Curriculum with over 400+ hours of technical instruction in statistics, and using Python and SQL to analyze large datasets.
 
 ### 🌟 Key Projects
 - **[Bank Fraud Detection](https://github.com/yourusername/bank-fraud-detection):** Developed a machine learning pipeline to detect fraudulent bank transactions.
