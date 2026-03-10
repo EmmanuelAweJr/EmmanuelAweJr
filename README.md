@@ -72,3 +72,116 @@ class EmmanuelAwe:
             "Build meaningful systems that create real value "
             "for people, infrastructure, and the future."
         )
+```
+
+---
+
+## About Me
+
+I’m a **polymath, researcher, and systems-minded builder** working across **technology, infrastructure, data, operations, real estate, and innovation**.
+
+My work sits at the intersection of **analysis, execution, research, storytelling, and systems design**. I’m especially drawn to opportunities where I can study complex problems deeply, uncover patterns, and help turn insights into practical, high-impact solutions.
+
+Lately, I’ve been **researching and developing data-driven solutions for clean energy and data centers**, while continuing to grow in **cloud, technical systems, infrastructure, and applied innovation**.
+
+---
+
+## Current Chapter
+
+- Strengthening my foundation in **Python**, **SQL**, and **Advanced Excel**
+- Currently obtaining the **AWS Cloud Practitioner**
+- Researching ways to apply **data-driven intelligence** in **clean energy** and **data center** environments
+- Continuing to build across **operations, infrastructure, real estate, systems thinking, and technical execution**
+- Pursuing opportunities where **research, technology, and real-world implementation** meet
+
+---
+
+## What I Bring
+
+### Research + Analysis
+- Research-driven thinking
+- Data analysis and problem framing
+- Pattern recognition across industries
+- Systems-level curiosity
+- Investigating practical applications for infrastructure-focused solutions
+
+### Technical + Operational
+- Python
+- SQL
+- Advanced Excel
+- Technical troubleshooting
+- Workflow and systems design
+- Cross-functional coordination
+- Process improvement
+- Training and enablement
+
+### Strategy + Execution
+- Turning complexity into clarity
+- Connecting ideas to implementation
+- Thinking across sectors instead of staying boxed into one
+- Bringing together research, operations, data, and technical direction
+- Building with depth, range, and purpose
+
+---
+
+## Areas of Focus
+
+`Cloud • Clean Energy • Data Centers • Real Estate • Data Science • Research • Operations • Infrastructure`
+
+---
+
+## Featured Links
+
+- **Portfolio Website:** [EmmanuelAweJr.github.io](https://EmmanuelAweJr.github.io)
+- ## Websites I Made
+
+### 1. True Threads
+Faith-inspired apparel website built with a premium visual feel.  
+[Visit Website](truethreads.lovable.app)
+
+### 2. Public Safety Platform
+I'm honored to be the Product Manager of this platform (Currently piloted in various cities, including Newark NJ) showcasing AI, GIS, and city safety solutions.  
+[Visit Website](www.reocommsafety.com)
+
+### 3. Housing Innovation Project
+Landing page for a housing- and systems-focused product concept.  
+[Visit Website](https://your-link-3.com)
+
+### 4. My friend's new CPG launch 
+A hair oil brand
+[Visit Website](https://shopitssogood.com)
+- **GitHub:** [github.com/EmmanuelAweJr](https://github.com/EmmanuelAweJr)
+- **LinkedIn:** [linkedin.com/emmanuelawe](https://linkedin.com/emmanuelawe)
+- **Email:** [emanawejr@gmail.com](mailto:emanawejr@gmail.com)
+
+---
+
+## Fun Facts
+
+- I know how to brew kombucha from scratch.
+- I know how to write screenplays from scratch, and I’m currently making one from scratch.
+- I know how to renovate a whole house.
+- I know how to build a solar power plant.
+
+---
+
+## GitHub Pulse
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EmmanuelAweJr&show_icons=true&theme=transparent&hide_border=true&title_color=111827&text_color=374151&icon_color=0f766e" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelAweJr&layout=compact&theme=transparent&hide_border=true&title_color=111827&text_color=374151" />
+
+</div>
+
+---
+
+## Closing Frame
+
+> I’m drawn to the kind of work where research, systems, infrastructure, and vision converge — and where thoughtful execution can create lasting value.
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=EmmanuelAweJr&style=flat-square&color=0f766e" alt="profile views" />
+
+</div>
