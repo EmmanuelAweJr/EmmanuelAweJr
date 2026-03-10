@@ -1,59 +1,74 @@
-## THIS PAGE IS GOING THROUGH SERIOUS RENOVATION
+<div align="center">
 
-<!--
-**EmmanuelAweJr/EmmanuelAweJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Emmanuel Awe
 
-Here are some ideas to get you started:
+### Impact Ambassador • Polymath • Researcher • Systems Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&pause=1000&color=0F766E&center=true&vCenter=true&width=980&lines=Researching+and+developing+data-driven+solutions+for+Clean+Energy+and+Data+Centers;Building+across+Python%2C+SQL%2C+Advanced+Excel%2C+Cloud%2C+Infrastructure%2C+and+Strategy;A+multidisciplinary+career+told+through+systems%2C+storytelling%2C+and+execution" alt="Typing SVG" />
 
+<br/>
 
-# Emmanuel Awe's GitHub Profile
+<a href="mailto:emanawejr@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/EmmanuelAweJr">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/emmanuelawe">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="PASTE_YOUR_WEBSITES_LINK_HERE">
+  <img src="https://img.shields.io/badge/Websites_I_Made-14532d?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-![Header Image](https://yourimageurl.com)
+<br/><br/>
 
-## Hi there! 👋
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=336791" />
+<img src="https://img.shields.io/badge/Advanced_Excel-111827?style=flat-square&logo=microsoft-excel&logoColor=217346" />
+<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-In_Progress-111827?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Research-111827?style=flat-square&logo=google-scholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Clean_Energy-111827?style=flat-square&logo=leaflet&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/Data_Centers-111827?style=flat-square&logo=serverfault&logoColor=93c5fd" />
+<img src="https://img.shields.io/badge/Real_Estate-111827?style=flat-square&logo=homeassistant&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/Operations-111827?style=flat-square&logo=buffer&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Science-111827?style=flat-square&logo=databricks&logoColor=FF3621" />
 
-I'm Emmanuel Awe, a passionate technologist with a diverse background in media, tech, and product roles. My journey in tech has been driven by a desire to empower underrepresented communities and foster diversity in the innovation economy. Let's connect and collaborate!
+</div>
 
-### 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-![Ruby On Rails] (https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+---
 
+## `whoami`
 
-### 💼 Work Experience
-- **OnsiteIQ-Process Improvement & Systems Development** at OnsiteIQ
-- **PThe Knowledge House** Project-Based Data Science Curriculum with over 400+ hours of technical instruction in statistics, and using Python and SQL to analyze large datasets.
+```python
+class EmmanuelAwe:
+    def __init__(self):
+        self.identity = [
+            "Impact Ambassador",
+            "Polymath",
+            "Researcher",
+            "Systems Builder",
+            "Multidisciplinary Problem Solver"
+        ]
 
-### 🌟 Key Projects
-- **[Bank Fraud Detection](https://github.com/yourusername/bank-fraud-detection):** Developed a machine learning pipeline to detect fraudulent bank transactions.
-- **[Audio Recognition Algorithm](https://github.com/yourusername/audio-recognition-algorithm):** Created an algorithm to recognize and classify audio signals.
-- **[Exploratory Data Analysis in Real Estate](https://github.com/yourusername/real-estate-eda):** Insights into real estate trends using Python.
+        self.core_tools = ["Python", "SQL", "Advanced Excel"]
+        self.current_path = ["AWS Cloud Practitioner"]
+        self.focus_areas = [
+            "Clean Energy",
+            "Data Centers",
+            "Cloud",
+            "Real Estate",
+            "Operations",
+            "Data Science",
+            "Infrastructure Systems"
+        ]
 
-### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/emmanuelawe/)
-- [Email](mailto:emmanuel.awe@example.com)
+        self.current_research = (
+            "Researching and developing data-driven solutions "
+            "to implement in clean energy and data center environments."
+        )
 
-### 📈 GitHub Stats
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-### 🏅 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-### 💡 Fun Facts
-- 🎬 I have a background in film school and a passion for storytelling.
-- 🚁 I enjoy managing UAV flight operations and exploring innovative uses of camera technology.
-
-![Footer Image](https://yourfooterimageurl.com)
+        self.mission = (
+            "Build meaningful systems that create real value "
+            "for people, infrastructure, and the future."
+        )
