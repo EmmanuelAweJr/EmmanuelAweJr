@@ -135,13 +135,17 @@ Lately, I’ve been **researching and developing data-driven solutions for clean
 - **Portfolio Website:** [EmmanuelAweJr.github.io](https://EmmanuelAweJr.github.io)
 - ## Websites I Made
 
-### 1. True Threads
-Faith-inspired apparel website built with a premium visual feel.  
-[Visit Website](truethreads.lovable.app)
+### 1. 25m VC Investment Fund
+OWES Capital invests in high-growth startups led by Black and African diaspora founders across the U.S. and Africa.  
+[Visit Website](https://owescapital.com/)
 
 ### 2. Public Safety Platform
-I'm honored to be the Product Manager of this platform (Currently piloted in various cities, including Newark NJ) showcasing AI, GIS, and city safety solutions.  
+I'm honored to be the Product Manager of this platform (Currently piloted in various cities, including Newark, NJ), showcasing AI, GIS, and city safety solutions.  
 [Visit Website](www.reocommsafety.com)
+
+### 3. True Threads
+Faith-inspired apparel website built with a premium visual feel.  
+[Visit Website](truethreads.store)
 
 ### 3. Housing Innovation Project
 Landing page for a housing- and systems-focused product concept.  
@@ -150,6 +154,7 @@ Landing page for a housing- and systems-focused product concept.
 ### 4. My friend's new CPG launch 
 A hair oil brand
 [Visit Website](https://shopitssogood.com)
+
 - **GitHub:** [github.com/EmmanuelAweJr](https://github.com/EmmanuelAweJr)
 - **LinkedIn:** [linkedin.com/emmanuelawe](https://linkedin.com/emmanuelawe)
 - **Email:** [emanawejr@gmail.com](mailto:emanawejr@gmail.com)
