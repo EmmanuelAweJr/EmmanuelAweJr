@@ -2,7 +2,7 @@
 
 # Emmanuel Awe
 
-### Impact Ambassador • Polymath • Researcher • Systems Builder
+### Impact Ambassador | Researcher | Data Scientist | Building Science | Datacenter Solutions| Energy Efficiency | Smart Distrubuted Energy Resource Solutions | Quantum Solutions
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&pause=1000&color=0F766E&center=true&vCenter=true&width=980&lines=Researching+and+developing+data-driven+solutions+for+Clean+Energy+and+Data+Centers;Building+across+Python%2C+SQL%2C+Advanced+Excel%2C+Cloud%2C+Infrastructure%2C+and+Strategy;A+multidisciplinary+career+told+through+systems%2C+storytelling%2C+and+execution" alt="Typing SVG" />
 
@@ -141,11 +141,11 @@ OWES Capital invests in high-growth startups led by Black and African diaspora f
 
 ### 2. Public Safety Platform
 Reocomm Intelligence Security Services: I'm a Product Manager & stakeholder of this AI enabled public safetyplatform (Currently piloted in various cities, including Newark, NJ), showcasing AI, GIS, and city safety solutions.  
-[Visit Website](reocommsafety.com)
+[Visit Website](https://reocommsafety.com)
 
 ### 3. True Threads
 Faith-inspired apparel website built with a premium visual feel.  
-[Visit Website](truethreads.store)
+[Visit Website](https://truethreads.store)
 
 ### 3. Housing Innovation Project
 Landing page for a housing- and systems-focused product concept.  
