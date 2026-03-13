@@ -140,8 +140,8 @@ OWES Capital invests in high-growth startups led by Black and African diaspora f
 [Visit Website](https://owescapital.com/)
 
 ### 2. Public Safety Platform
-I'm honored to be the Product Manager of this platform (Currently piloted in various cities, including Newark, NJ), showcasing AI, GIS, and city safety solutions.  
-[Visit Website](www.reocommsafety.com)
+Reocomm Intelligence Security Services: I'm a Product Manager & stakeholder of this AI enabled public safetyplatform (Currently piloted in various cities, including Newark, NJ), showcasing AI, GIS, and city safety solutions.  
+[Visit Website](reocommsafety.com)
 
 ### 3. True Threads
 Faith-inspired apparel website built with a premium visual feel.  
