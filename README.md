@@ -14,7 +14,7 @@
 <a href="https://github.com/EmmanuelAweJr">
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/emmanuelawe">
+<a href="https://linkedin.com/in/emmanuelawe">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="PASTE_YOUR_WEBSITES_LINK_HERE">
